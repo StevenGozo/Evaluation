@@ -1,6 +1,11 @@
 'use strict';
 
 /**
+ * Exercice 9
+ */
+
+
+/**
  * Check Palindrome
  * @constructor
  * @param {string} str - A character string.
